@@ -1,4 +1,4 @@
-# OT - Premium Server [![Build status](https://ci.appveyor.com/api/projects/status/1t1a1rkwjwfot2ac?svg=true)](https://ci.appveyor.com/project/marcomoa/server) 
+# OTG Premium Server - [![Build status](https://ci.appveyor.com/api/projects/status/1t1a1rkwjwfot2ac?svg=true)](https://ci.appveyor.com/project/marcomoa/server) [![Build Status](https://travis-ci.org/otglobal/server.svg?branch=master)](https://travis-ci.org/otglobal/server)
 
 ### Getting Started:
 * [Compiling](https://github.com/otland/forgottenserver/wiki/Compiling)
